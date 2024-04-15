@@ -25,7 +25,7 @@ tags:
 title: Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide
 url_code: ""
 url_dataset: ""
-url_pdf: https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4575096_code2425980.pdf?abstractid=4575096&mirid=1&type=2
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575096
 url_poster: ""
 url_project: ""
 url_slides: ""

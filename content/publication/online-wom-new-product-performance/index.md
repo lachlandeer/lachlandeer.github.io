@@ -4,7 +4,7 @@ authors:
 - admin
 - Pradeep K. Chintagunta
 - Gregory S. Crawford
-date: "2020-12-31T00:00:00Z"
+date: "2022-12-31T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -16,7 +16,7 @@ publication: 'Working Paper'
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2020-12-31T00:00:00Z"
+publishDate: "2022-12-31T00:00:00Z"
 slides: ""
 summary: Investigates the impact of Twitter volume and sentiment on the demand for wide release movies.
 tags:
@@ -26,7 +26,7 @@ tags:
 title: Online Word of Mouth and the Performance of New Products
 url_code: ""
 url_dataset: ""
-url_pdf: "./media/deer_jmp.pdf"
+url_pdf: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4227912"
 url_poster: ""
 url_project: ""
 url_slides: ""
