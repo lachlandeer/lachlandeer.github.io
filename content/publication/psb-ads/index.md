@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Working Paper (R&R at IJIO)'
+publication: 'Working Paper'
 publication_short: ""
 publication_types:
 - "3"
