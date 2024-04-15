@@ -18,6 +18,7 @@ url_video: ""
 
 ## Taught at:
 
+- Tilburg, Fall 2022
 - Tilburg, Fall 2023
 
 ## Motivation

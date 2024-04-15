@@ -1,5 +1,5 @@
 ---
-date: "2023-03-01T00:00:00Z"
+date: "2024-04-01T00:00:00Z"
 external_link: ""
 image:
   focal_point: Smart
@@ -7,21 +7,21 @@ links:
 - icon: home
   icon_pack: fas
   name: Recent Course Material
-  url: https://tisem-digital-marketing.github.io/2023-smwa/
+  url: https://tisem-digital-marketing.github.io/2024-smwa/
 - icon: github
   icon_pack: fab
   name: GitHub Page
   url: https://github.com/tisem-digital-marketing/
-- icon: youtube
-  icon_pack: fab
-  name: Video Lectures
-  url: https://www.youtube.com/channel/UCGodbWiarwz8BfXKy8Gxqlw
+#- icon: youtube
+#  icon_pack: fab
+#  name: Video Lectures
+#  url: https://www.youtube.com/channel/UCGodbWiarwz8BfXKy8Gxqlw
 - icon: folder-open
   icon_pack: fas
-  name: Archived Course Material
+  name: Archived Course Material (2022)
   url: https://zenodo.org/record/6624035
 slides:
-summary: Develops an understanding of the social media landscape from the point of view of a marketing analyst. Targeted at graduate students.
+summary: Develops an analytics toolkit for studying digital markets and social media.
 tags:
 - Digital Marketing
 - tilburg
@@ -37,29 +37,31 @@ url_video: ""
 - [Tilburg, Spring 2021](https://tisem-digital-marketing.github.io/2021-smwa/)
 - [Tilburg, Spring 2022](https://tisem-digital-marketing.github.io/2022-smwa/)
 - [Tilburg, Spring 2023](https://tisem-digital-marketing.github.io/2023-smwa/)
+- [Tilburg, Spring 2024](https://tisem-digital-marketing.github.io/2024-smwa/)
 
 ## Motivation
 
-"Some 73% of online adults now use a social networking site of some kind... [and] 42% of online adults now use multiple social networking sites," according to a recent [Pew Research survey](https://www.pewresearch.org/internet/fact-sheet/social-media/).
-If a business needs to be where its customers are, then establishing a strong presence on social media is a critical component of a modern marketing strategy.
-The goal of this course is to develop an understanding of the social media landscape from the point of view of a marketing analyst.
-To that end, we need to be able to answer the following questions:
-How does one develop an online reputation or develop their brand online? 
-How does one maintain a strong user community on social networking sites? 
-How can one craft a potent social advertising strategy? 
-What are the potential pitfalls?
-How does one quantitatively assess whether their online reputation is positive and/or improving, or whether their social marketing is effective?
+Across the globe, consumers spend over 6 hours per day on the internet, spending over $US7.5 trillion annually on digital commerce sites and spending roughly 1/3 of their time on social media websites (See
+[Statista](https://www.statista.com/outlook/dmo/fintech/digital-payments/digital-commerce/worldwide) and
+Pew Research, 2019, [Social Media Fact Sheet.](https://www.pewresearch.org/internet/fact-sheet/social-media/)
+).
+The goal of this course is to develop an analytics toolkit to analyze the data coming from digital markets and social media to deliver managerially relevant business recommendations.
+The course content will be unashamedly analytics heavy - utilizing modern statistical and mathematical modelling techniques.
+Our approach will be to introduce these techniques in a practical manner, with a focus on deep concepts and intuition but there will be mathematical formulae when needed.
+By the conclusion of the class you will be able to deliver data-driven answers to the following questions (among many others):
 
-To answer these questions, we must synthesize knowledge from a variety of disciplines. 
-Sociologists have researched such concepts as homophily and social capital, which point to the underlying motivations in the relationships of individuals in a social network, 
-  computer scientists have uncovered surprising patterns in real-world social networks, 
-  and marketing experts have studied how network structure influences consumer demand, what makes ads go 'viral' and aspects of social advertising. 
-This course will combine this foundational material with actual case studies of businesses in the social world to build an understanding of modern social media marketing.
-As we progress through the course a heavy emphasis on analytical techniques - both statistical and theoretical - will guide our understanding and allow us to draw conclusions from data to answer the questions posed above.
+* Is my online marketing effective? How can I make it even better? 
+* Should I respond to consumer reviews on social media? If so, which ones? 
+* Does what is written on social media sites influence demand for my product? 
+* Are there fake reviews on my website/platform? How can I detect them?
 
-The course is split into four modules:
+The course is split into four substantive modules:
 
-1. **Network Patterns:** which seeks to describes and explain several common patterns found in real-world social networks,
-2. **Branding and Community:** which explores the best practice methods for maintaining a strong brand online and managing the user community,
-3. **Importance and Influence:** which discusses an individual's place in the network, and how memes, early adoption, word of mouth and other 'information cascades' propagate,
-4. **Advertising and Marketing:** which focuses on viral marketing and social advertising techniques.
+1. **Reseach Design for Causality**: provides the basic framework for thinking about the design and analysis of empirical research in digital markets and social media
+2. **Casual Inference**: provides the statistical toolkit to analyze data and interpret findings from field experiments and observational data
+3. **Text Analytics**: provides the statistical toolkit to analyze text using statistical and numerical techniques
+4. **Special Topics**: introduces additional tools based on preferences of the student cohort
+
+During these modules we will focus on learning and then leveraging an analytics toolkit as well as extracting insights from recent academic literature. 
+This course provides students with the background needed to begin working in a marketing analytics position within a corporation, a consulting firm, or a marketing research firm.
+By the end of the course, you will be able to walk into any company and help make data-driven marketing decisions.
