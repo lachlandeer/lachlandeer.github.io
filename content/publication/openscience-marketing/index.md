@@ -14,7 +14,7 @@ authors:
 - Hannes Datta
 - Natalie Mizik
 - Marko Sarstedt
-date: "2024-02-22T00:00:00Z"
+date: "2024-05-22T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -22,7 +22,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Working Paper'
+publication: 'Working Paper, *R&R at International Journal of Research in Marketing*'
 publication_short: ""
 publication_types:
 - "3"
