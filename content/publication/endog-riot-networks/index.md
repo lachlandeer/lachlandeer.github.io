@@ -8,11 +8,11 @@ Finally, we illustrate the empirical potential of the model by showing that it c
 This estimation exercise also suggests that, in this instance, network-based social learning played a leading role in the process underlying collective action"
 
 authors:
-- Chih-Sheng Hsieh
 - admin
+- Chih-Sheng Hsieh
 - Michael Koenig
 - Fernando Vega-Redondo
-date: "2024-05-10T00:00:00Z"
+date: "2024-08-10T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -32,7 +32,7 @@ tags:
 title: "Social networks and collective action in large populations: An application to the Egyptian Arab Spring"
 url_code: ""
 url_dataset: ""
-url_pdf: "uploads/riot_networks_2024_05.pdf"
+url_pdf: "uploads/riot_networks_2024_08.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""

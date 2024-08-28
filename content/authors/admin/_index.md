@@ -25,15 +25,14 @@ organizations:
   url: https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/marketing
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantitative marketing, digital marketing and text as data.
+bio: My research interests include quantitative marketing, digital marketing and public policy.
 
 # Interests to show in About widget
 interests:
   - Quantitative Marketing
   - Digital Marketing
-  - Social Media
   - Entertainment Industries
-  - Health Economics/Marketing
+  - Public Policy
 
 # Education to show in About widget
 education:
