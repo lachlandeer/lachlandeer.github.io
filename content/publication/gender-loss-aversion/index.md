@@ -10,7 +10,7 @@ authors:
 - Jolanda Ygosse-Battisti
 - Ferdinand M. Vieider
 date: "2019-12-02T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/s11166-019-09315-3"
 featured: false
 image:
   caption: ""
@@ -32,8 +32,6 @@ tags:
 - Experiment
 title: Gender Effects for Loss Aversion - Yes, No, Maybe?
 links:
-- name: Journal of Risk and Uncertainty
-  url: https://link.springer.com/article/10.1007/s11166-019-09315-3
 url_code: ""
 url_dataset: ""
 url_pdf: https://link.springer.com/content/pdf/10.1007%2Fs11166-019-09315-3.pdf

@@ -4,7 +4,7 @@ authors:
 - admin
 - Ralph C. Bayer
 date: "2016-01-20T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.3390/g7010004"
 featured: false
 image:
   caption: ""
@@ -23,8 +23,6 @@ tags:
 - Publication
 title: Commitment and Cooperation in Partnerships
 links:
-- name: Games
-  url: https://www.mdpi.com/2073-4336/7/1/4
 url_code: ""
 url_dataset: ""
 url_pdf: https://www.mdpi.com/2073-4336/7/1/4/pdf
