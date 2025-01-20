@@ -1,40 +1,34 @@
 ---
-abstract: "We make the case for a cultural shift towards open science in academic marketing research to
-address growing concerns about research complexity and challenges surrounding replicability
-and reproducibility. We discuss how open science can increase the scientific rigor and
-credibility of research across diverse paradigms and practices within the field. We also
-provide guidance on implementing open science in empirical research for authors, journals,
-and institutions, highlighting the benefits and costs of adapting existing practices to the
-field’s subdisciplines. Implementing open science practices requires concerted and
-collaborative efforts among authors, journals, and institutions to integrate its principles into
-their specific practices and policies."
+abstract: "The open science paradigm has gained prominence in marketing as researchers seek to enhance the validity, reliability, and transparency of research methods and findings. Journals and institutions increasingly encourage or require open science practices, and many authors have started to adapt to and meet these new research and publishing expectations. We provide guidance for effectively implementing open science practices in empirical marketing research. Our recommendations, are tailored to the unique methodological approaches and challenges of each subdiscipline and their specific research contexts. Successful integration of these practices into academic marketing research will require concerted and collaborative efforts among authors, journals, institutions, and funding agencies. We argue that the gradual, thoughtful adoption of these principles and practices will improve the quality and efficiency of scientific discovery.."
 authors:
 - admin
 - Susanne Adler
 - Hannes Datta
 - Natalie Mizik
 - Marko Sarstedt
-date: "2024-05-22T00:00:00Z"
-doi: ""
+date: "2025-01-16T00:00:00Z"
+doi: "https://doi.org/10.1016/j.ijresmar.2024.12.005"
 featured: false
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Working Paper, *R&R at International Journal of Research in Marketing*'
+publication: '*International Journal of Research in Marketing*'
 publication_short: ""
 publication_types:
-- "3"
-publishDate: "2024-02-20T00:00:00Z"
+- "2"
+publishDate: "2025-01-16T00:00:00Z"
 slides: ""
-summary: Makes the case for a cultural shift towards open science in academic marketing research.
+summary:  Provide guidances for effectively implementing open science practices in empirical marketing research.
 tags:
-- Working Paper
+- Publication
+- Open Science
+- Marketing
 title: Toward Open Science in Marketing Research
 url_code: ""
 url_dataset: ""
-url_pdf: https://doi.org/10.31219/osf.io/f7a8c
+url_pdf: "https://www.sciencedirect.com/science/article/pii/S0167811624001150/pdfft?md5=e8eebfafdc4be395db56e6c117a51d35&pid=1-s2.0-S0167811624001150-main.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
