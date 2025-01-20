@@ -15,7 +15,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '"*I4R Discussion Paper Series No. 107*"'
+publication: '*I4R Discussion Paper Series No. 107*'
 publication_short: ""
 publication_types:
 - "3"

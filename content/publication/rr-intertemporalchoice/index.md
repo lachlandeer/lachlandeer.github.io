@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Working Paper'
+publication: ''*I4R Discussion Paper Series No. 42*''
 publication_short: ""
 publication_types:
 - "3"
