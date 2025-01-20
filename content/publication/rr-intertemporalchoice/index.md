@@ -13,15 +13,14 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: ''*I4R Discussion Paper Series No. 42*''
+publication: '*I4R Discussion Paper Series No. 42*'
 publication_short: ""
 publication_types:
-- "3"
+
 publishDate: "2023-02-28T00:00:00Z"
 slides: ""
 summary: Reproduces Results of Dertwinkel-Kalt et al. (2022)
 tags:
-- Working Paper
 - Replication
 - Replication Report
 title: "Replication Report: Concentration Bias in Intertemporal Choice"

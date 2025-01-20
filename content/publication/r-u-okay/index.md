@@ -22,7 +22,7 @@ slides: ""
 summary: Investigates the effectiveness of the R U Okay? Day campaign on mental health, healthcare utilization and suicide.
 tags:
 - Working Paper
-title: Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide
+title: Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Health
 url_code: ""
 url_dataset: ""
 url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4575096

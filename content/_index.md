@@ -44,6 +44,8 @@ sections:
           tag: Publication
         - name: In Progress
           tag: In Progress
+        - name: Replication Reports
+          tag: Replication Report 
       filters:
         folders:
           - publication
