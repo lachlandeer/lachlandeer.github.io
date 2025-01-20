@@ -1,11 +1,11 @@
 ---
-abstract: "National public health awareness campaigns that emphasize peer-to-peer support are being increasingly adopted by governments and NGOs, but evidence on the effect of peer-based support programs at scale is limited. Using quasi-experimental methods, we examine whether a prominent, nationwide peer-based support campaign, “R U OK? Day”, that addresses awareness of mental health and suicide prevention affects short-term mental health outcomes in Australia. Using variation in daily records and differences in the campaign’s intensity over nine years, we find positive effects on mental wellbeing, particularly among middle-aged males, with improved social support the likely mechanism. However, we find no evidence that this effect translates into reduced suicides or suicidal behaviours in the short term. Our results provide evidence that peer support campaigns may be a practical, low-cost approach to improve population mental wellbeing."
+abstract: " National public health awareness campaigns that emphasize peer-to-peer support are being increasingly adopted, but evidence on the effect of peer-based programs at scale is limited. Using quasi-experimental methods, we examine whether the prominent, nationwide R U OK? Day campaign affects short-term mental health outcomes in Australia.  Leveraging detailed data, we find R U OK? Day leads to a 4% of a standard deviation increase in self-reported mental wellbeing, with the effect particularly pronounced among middle-aged males who experience a 9% of a standard deviation increase.  However, we find no effects on mental health care utilization or suicide rates. Our results underscore that although peer-based campaigns can improve mental wellbeing, especially for high-risk groups, the challenge of realizing tangible broader public health impact may require complementary strategies. "
 authors:
 - Nicole Black
 - admin
 - David Johnston
 - Johannes Kunz
-date: "2024-05-25T00:00:00Z"
+date: "2025-01-17T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -17,9 +17,9 @@ publication: 'Working Paper, R&R at *Journal of Marketing*'
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2024-03-25T00:00:00Z"
+publishDate: "2025-01-17T00:00:00Z"
 slides: ""
-summary: Investigates the effectiveness of R U Okay? Day on suicide and mental health.
+summary: Investigates the effectiveness of the R U Okay? Day campaign on mental health, healthcare utilization and suicide.
 tags:
 - Working Paper
 title: Are You Okay? The Effect of a National Peer-based Support Campaign on Mental Wellbeing and Suicide
