@@ -3,9 +3,9 @@ title: "The Sources of Researcher Variation in Economics"
 authors:
 - Nick Huntington-Klein
 - Claus C. Pörtner
+- "<span style='text-transform: none;'>and many others including</span>" 
 - admin
 - "...." 
-author_display: "and many others including Admin"
 author_notes:
 date: "2025-02-25T00:00:00Z"
 doi: ""
