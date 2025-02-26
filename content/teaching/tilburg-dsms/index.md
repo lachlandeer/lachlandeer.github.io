@@ -4,6 +4,10 @@ external_link: ""
 image:
   focal_point: Smart
 links:
+- icon: home
+  icon_pack: fas
+  name: Recent Course Material
+  url: https://github.com/deer-marketing-lab/2024-dsms
 slides:
 summary: Introduces students to digital marketing with an emphasis on recent academic research in quantitative marketing and field experiments. Targeted at undergraduate students.
 tags:
@@ -20,6 +24,7 @@ url_video: ""
 
 - Tilburg, Fall 2022
 - Tilburg, Fall 2023
+- Tilburg, Fall 2024
 
 ## Motivation
 
