@@ -4,9 +4,8 @@ authors:
 - Abel Brodeur
 - Derek Mikola
 - Nicolai Cook
-- "...."
+- "and many others including"
 - admin
-- "..."
 date: "2024-03-15T00:00:00Z"
 doi: ""
 featured: false

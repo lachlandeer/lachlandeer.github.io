@@ -11,7 +11,7 @@ authors:
 - admin 
 - Tom Stafford 
 - Lars Vilhuber
-- "..."
+- "and many others"
 author_notes:
 date: "2025-01-11T00:00:00Z"
 doi: ""

@@ -5,7 +5,6 @@ authors:
 - Claus C. Pörtner
 - "and many others including" 
 - admin
-- "...." 
 author_notes:
 date: "2025-02-25T00:00:00Z"
 doi: ""
