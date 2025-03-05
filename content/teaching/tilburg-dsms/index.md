@@ -8,6 +8,10 @@ links:
   icon_pack: fas
   name: Recent Course Material
   url: https://github.com/deer-marketing-lab/2024-dsms
+- icon: folder-open
+  icon_pack: fas
+  name: Archived Course Material (2024)
+  url: https://doi.org/10.5281/zenodo.14975990
 slides:
 summary: Introduces students to digital marketing with an emphasis on recent academic research in quantitative marketing and field experiments. Targeted at undergraduate students.
 tags:
