@@ -134,7 +134,7 @@ My research develops quantitative models that guide managerial decision-making a
 - Social networks and their impact on protests
 - Regulation of TV advertising
 
-**News:** Staring in mid-2025, I will be joining the Department of Management and Marketing at the University of Melbourne as an Assistant Professor (Lecturer in Australia).
+**News:** Starting in mid-2025, I will be joining the Department of Management and Marketing at the University of Melbourne as an Assistant Professor (Lecturer in Australia).
 
 <!-- Learn more about my research [here](./#research). -->
 {style="text-align: justify;"}
