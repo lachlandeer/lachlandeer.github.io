@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Working Paper, R&R at *Journal of Marketing*'
+publication: 'Working Paper, 2nd Round R&R at *Journal of Marketing*'
 publication_short: ""
 publication_types:
 - "3"
