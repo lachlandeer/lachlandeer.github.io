@@ -21,8 +21,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Tilburg University
-  url: https://www.tilburguniversity.edu/about/schools/economics-and-management/organization/departments/marketing
+- name: University of Melbourne
+  url: https://fbe.unimelb.edu.au/managementmarketing
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include quantitative marketing, digital marketing and public policy.
@@ -99,12 +99,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/lachlandeer
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=peCaHWMAAAAJ
@@ -125,7 +122,7 @@ social:
 highlight_name: true
 ---
 
-I am an Assistant Professor in the Marketing Group at Tilburg University.
+I am an Assistant Professor (Lecturer in Australian)in the Management and Marketing Group at the University of Melbourne.
 
 My research develops quantitative models that guide managerial decision-making and inform public policy in the following areas:
 
@@ -133,8 +130,6 @@ My research develops quantitative models that guide managerial decision-making a
 - Effectiveness of mental health awareness campaigns
 - Social networks and their impact on protests
 - Regulation of TV advertising
-
-**News:** Starting in mid-2025, I will be joining the Department of Management and Marketing at the University of Melbourne as an Assistant Professor (Lecturer in Australia).
 
 <!-- Learn more about my research [here](./#research). -->
 {style="text-align: justify;"}

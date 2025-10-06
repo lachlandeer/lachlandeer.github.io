@@ -69,7 +69,9 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: At Tilburg
+        - name: At Uni Melbourne
+          tag: 'Uni Melb'
+        - name: At Tilburg U
           tag: 'Digital Marketing'
         - name: Short Courses
           tag: 'short-course'
@@ -252,24 +254,24 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: l.k.deer@tilburguniversity.edu
+      email: lachlan.deer@unimelb.edu.au
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: Warandelaan 2
-        city: Tilburg
-        region: North Brabant
-        postcode: '5037 AB'
-        country: Netherlands
-        country_code: NL
-      directions: Koopmans Building, Office 711
+        street: 111 Barry St
+        city: Carlton 
+        region: Victoria
+        postcode: '3053'
+        country: Australia
+        country_code: AU
+      # directions: Koopmans Building, Office 711
       # office_hours:
         # - 'Monday 10:00 to 13:00'
         # - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '51.56288'
-        longitude: '5.04172'  
+        latitude: '-37.8016'
+        longitude: '144.9587'  
       contact_links:
         - icon: twitter
           icon_pack: fab
