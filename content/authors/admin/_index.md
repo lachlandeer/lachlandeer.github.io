@@ -33,6 +33,8 @@ interests:
   - Digital Marketing
   - Entertainment Industries
   - Public Policy
+  - Open Science
+  - Meta Science
 
 # Education to show in About widget
 education:
@@ -122,7 +124,7 @@ social:
 highlight_name: true
 ---
 
-I am an Assistant Professor (Lecturer in Australian)in the Management and Marketing Group at the University of Melbourne.
+I am an Assistant Professor (Lecturer in Australian) in the Management and Marketing Group at the University of Melbourne.
 
 My research develops quantitative models that guide managerial decision-making and inform public policy in the following areas:
 

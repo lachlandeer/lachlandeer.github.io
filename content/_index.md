@@ -258,10 +258,10 @@ sections:
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       address:
-        street: 111 Barry St
+        street: 198 Berkeley St
         city: Carlton 
         region: Victoria
-        postcode: '3053'
+        postcode: '3010'
         country: Australia
         country_code: AU
       # directions: Koopmans Building, Office 711
@@ -272,11 +272,11 @@ sections:
       coordinates:
         latitude: '-37.8016'
         longitude: '144.9587'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/lachlandeer'
+      # contact_links:
+      #   - icon: twitter
+      #     icon_pack: fab
+      #     name: DM Me
+      #     link: 'https://twitter.com/lachlandeer'
         # - icon: skype
         #   icon_pack: fab
         #   name: Skype Me

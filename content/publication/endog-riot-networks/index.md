@@ -20,7 +20,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Working Paper, *Submitted*'
+publication: 'Working Paper'
 publication_short: ""
 publication_types:
 - "3"

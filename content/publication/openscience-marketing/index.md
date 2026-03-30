@@ -34,4 +34,8 @@ url_project: ""
 url_slides: ""
 url_source: ""
 url_video: ""
+links:
+  - name: Working Paper
+    url: https://osf.io/preprints/osf/f7a8c_v1
+
 ---

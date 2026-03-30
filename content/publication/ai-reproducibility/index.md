@@ -13,20 +13,20 @@ authors:
 - Lars Vilhuber
 - "and many others"
 author_notes:
-date: "2025-01-11T00:00:00Z"
+date: "2026-03-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-11T00:00:00Z"
+publishDate: "2026-02-11T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
 publication_types:
-- "3"
+- "2"
 
 # Publication name and optional abbreviated publication name.
-publication: "*I4R Discussion Paper Series No. 195*, *Submitted*"
+publication: "*PNAS (forthcoming)*"
 publication_short: ""
 
 abstract: "This study evaluates the effectiveness of varying levels of human and artificial intelligence (AI) integration in reproducibility assessments of quantitative social science research. We computationally reproduced quantitative results from published articles in the social sciences with 288 researchers, randomly assigned to 103 teams across three groups - human-only teams, AI-assisted teams and teams whose task was to minimally guide an AI to conduct reproducibility checks (the AI-led approach). Findings reveal that when working independently, human teams matched the reproducibility success rates of teams using AI assistance, while both groups substantially outperformed AI-led approaches (with human teams achieving 57 percentage points higher success rates than AI-led teams, 𝒑 < 0.001). Human teams were particularly effective at identifying serious problems in the analysis: they found significantly more major errors compared to both AI-assisted teams (0.7 more errors per team, 𝒑 = 0.017) and AI-led teams (1.1 more errors per team, 𝒑 < 0.001). AI-assisted teams demonstrated an advantage over more automated approaches, detecting 0.4 more major errors per team than AI-led teams ( 𝒑 = 0.029), though still significantly fewer than human-only teams. Finally, both human and AI-assisted teams significantly outperformed AIled approaches in both proposing (25 percentage points difference, 𝒑 = 0.017) and implementing (33 percentage points difference, 𝒑 = 0.005) comprehensive robustness checks. These results underscore both the strengths and limitations of AI assistance in research reproduction and suggest that despite impressive advancements in AI capability, key aspects of the research publication process still require human substantial human involvement."
@@ -39,13 +39,16 @@ tags:
 - Reproducibility 
 - AI
 - Metascience
-- Working Paper
+- Publication
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf
+links:
+  - name: Working Paper
+    url: "https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -53,6 +56,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
