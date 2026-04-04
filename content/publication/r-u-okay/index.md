@@ -5,7 +5,7 @@ authors:
 - admin
 - David Johnston
 - Johannes Kunz
-date: "2025-01-17T00:00:00Z"
+date: "2025-06-17T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -13,7 +13,7 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Working Paper, 3rd Round R&R at *Journal of Marketing*'
+publication: 'Working Paper, Conditionally accepted at *Journal of Marketing*'
 publication_short: ""
 publication_types:
 - "3"

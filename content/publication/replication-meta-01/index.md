@@ -6,7 +6,7 @@ authors:
 - Nicolai Cook
 - "and many others including"
 - admin
-date: "2026-03-15T00:00:00Z"
+date: "2026-04-02T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -14,11 +14,11 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: '*Nature (forthcoming)*'
+publication: '*Nature*'
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2026-03-15T00:00:00Z"
+publishDate: "2026-04-02T00:00:00Z"
 slides: ""
 summary: Investigates reproducibility of 110 papers published in economics and political science from 2022 onwards.
 tags:
