@@ -7,7 +7,7 @@ authors:
 - "and many others including"
 - admin
 date: "2026-04-02T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1038/s41586-026-10251-x"
 featured: false
 image:
   caption: ""
@@ -35,6 +35,10 @@ url_video: ""
 links:
   - name: Working Paper
     url: "uploads/nature_wp_2026.pdf"
-  - name: Appendix
+  - name: Web Appendix
     url: "uploads/nature_app_2026.pdf"
+  - name: Code & Data
+    url: https://zenodo.org/records/17792605 
+  - name: Preregistration
+    url: https://osf.io/8wsqx/
 ---

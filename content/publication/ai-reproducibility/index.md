@@ -1,5 +1,5 @@
 ---
-title: "Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science"
+title: "AI-assisted teams outperform AI-led teams but not human-only teams in assessing research reproducibility in quantitative social science"
 authors:
 - Abel Brodeur 
 - David Valenta 
@@ -14,10 +14,10 @@ authors:
 - "and many others"
 author_notes:
 date: "2026-04-03T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1073/pnas.2524747123"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-04-03T00:00:00Z"
+publishDate: "2026-05-28T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,8 +26,8 @@ publication_types:
 - "2"
 
 # Publication name and optional abbreviated publication name.
-publication: "*PNAS (forthcoming)*"
-publication_short: ""
+publication: "*Proceedings of the National Academy of Sciences*"
+publication_short: "*PNAS*"
 
 abstract: "This study evaluates the effectiveness of varying levels of human and artificial intelligence (AI) integration in reproducibility assessments of quantitative social science research. We computationally reproduced quantitative results from published articles in the social sciences with 288 researchers, randomly assigned to 103 teams across three groups - human-only teams, AI-assisted teams and teams whose task was to minimally guide an AI to conduct reproducibility checks (the AI-led approach). Findings reveal that when working independently, human teams matched the reproducibility success rates of teams using AI assistance, while both groups substantially outperformed AI-led approaches (with human teams achieving 57 percentage points higher success rates than AI-led teams, 𝒑 < 0.001). Human teams were particularly effective at identifying serious problems in the analysis: they found significantly more major errors compared to both AI-assisted teams (0.7 more errors per team, 𝒑 = 0.017) and AI-led teams (1.1 more errors per team, 𝒑 < 0.001). AI-assisted teams demonstrated an advantage over more automated approaches, detecting 0.4 more major errors per team than AI-led teams ( 𝒑 = 0.029), though still significantly fewer than human-only teams. Finally, both human and AI-assisted teams significantly outperformed AIled approaches in both proposing (25 percentage points difference, 𝒑 = 0.017) and implementing (33 percentage points difference, 𝒑 = 0.005) comprehensive robustness checks. These results underscore both the strengths and limitations of AI assistance in research reproduction and suggest that despite impressive advancements in AI capability, key aspects of the research publication process still require human substantial human involvement."
 
@@ -46,8 +46,14 @@ featured: false
 # - name: ""
 #   url: ""
 links:
-  - name: Working Paper
+  - name: "Working Paper"
     url: "https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf"
+  - name: "Web Appendix"
+    url: "https://www.pnas.org/doi/suppl/10.1073/pnas.2524747123/suppl_file/pnas.2524747123.sapp.pdf"
+  - name: "Code & Data"
+    url: "https://github.com/I4Replication/AI-Games"
+  - name: "Preregistration"
+    url: "https://osf.io/sz2g8/"
 url_pdf: ''
 url_code: ''
 url_dataset: ''
