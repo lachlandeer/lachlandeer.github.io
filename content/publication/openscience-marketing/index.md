@@ -35,7 +35,9 @@ url_slides: ""
 url_source: ""
 url_video: ""
 links:
-  - name: Working Paper
-    url: https://osf.io/preprints/osf/f7a8c_v1
+  - name: "Working Paper"
+    url: "https://osf.io/preprints/osf/f7a8c_v1"
+  - name: "Media: IJRM Newsletter"
+    url: "https://www.ijrm-newsletter.com/post/with-great-transparency-comes-great-discovery-open-science-for-marketing-research"
 
 ---
