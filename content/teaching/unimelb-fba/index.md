@@ -12,6 +12,10 @@ links:
   icon_pack: fab
   name: GitHub Page
   url: https://github.com/unimelb-cmce-10002
+- icon: building-columns
+  iconpack: fab
+  name: University Handbook
+  url: https://handbook.unimelb.edu.au/2026/subjects/cmce10002
 #- icon: youtube
 #  icon_pack: fab
 #  name: Video Lectures
